@@ -1,0 +1,4 @@
+[console_scripts]
+helloworld = helloworld.core:print_message
+serve = helloworld.web:run_server
+
